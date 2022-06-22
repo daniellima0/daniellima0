@@ -76,9 +76,9 @@
 
 # 📊 Stats
 
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=daniellima0&show_icons=true&theme=react" alt="GitHub stats" width = "49%"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daniellima0&theme=react&" alt="Contribution stats" width = "49%"/>
-</p>
+<div align="center">
+    <img width = "49%" height="160em" src="https://github-readme-stats.vercel.app/api?username=daniellima0&show_icons=true&theme=react"/>
+    <img width = "49%" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=daniellima0&theme=react&"/>
+</div>
 
 [comment]: <> (<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellima0&show_icons=true&locale=en&layout=compact&theme=react" alt="Most used languages"/></p>)
