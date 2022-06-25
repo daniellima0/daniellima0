@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Daniel Lima
 
-<p>Computer Engineering Undergraduate currently focused on Front End Web Development (HTML, CSS, JavaScript).</p>
+<p>Computer Engineering Student currently focused on Front End Web Development (HTML, CSS, JavaScript).</p>
 
 ## About me
 
-- 🎓 Computer Engineering Undergraduate @ [SENAI CIMATEC](https://www.senaicimatec.com.br/en/)
+- 🎓 Computer Engineering Student @ [SENAI CIMATEC](https://www.senaicimatec.com.br/en/)
 
 - 📖 Currently learning Front End Web Development (mostly by following [TheOdinProject](https://www.theodinproject.com/)) and Cybersecurity (using [TryHackMe](https://tryhackme.com/))
 
